@@ -1,5 +1,4 @@
-# Lenguajes de Programación
-## Práctica PHP - Paralelo 2
+# Práctica PHP
 
 ## PARTE 1
 Crear un formulario que simule el servicio de Google Translate para escribir palabras u frases en 4 idiomas, envíe cada palabra o frase y presente los resultados de la traducción.
